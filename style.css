@@ -1,0 +1,26 @@
+
+
+svg {
+	background-color: white;
+	border: solid 1px gray;
+	box-shadow: 1px 1px 2px gray;
+	padding: 50px 50px 50px 80px;
+}
+
+.axis path, .axis line {
+	fill : none;
+	stroke: gray;
+	shape-rendering: crispEdges;
+}
+
+div.tooltip {
+	visibility: hidden;
+	position: absolute;
+	background-color: white;
+	width: 150px;
+	height: 70px;
+	border: solid 1px gray;
+	box-shadow: 1px 1px 2px gray;
+	z-index: 1;
+	padding:4px;
+}
