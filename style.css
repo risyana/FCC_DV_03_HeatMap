@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
+body {
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
 
 svg {
 	background-color: white;
@@ -23,4 +28,13 @@ div.tooltip {
 	box-shadow: 1px 1px 2px gray;
 	z-index: 1;
 	padding:4px;
+	font-size: 14px;
+}
+
+.tt_year{
+	font-weight: bold;
+}
+
+.tt_month{
+	font-weight: bold;
 }
