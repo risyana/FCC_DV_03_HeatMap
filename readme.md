@@ -7,4 +7,6 @@ Demo : https://codepen.io/risyana/full/WpJeaB/
 ..
 
 Next :
-- Create more fancy tooltip
+1 Create more fancy tooltip
+2. Bug fix
+
